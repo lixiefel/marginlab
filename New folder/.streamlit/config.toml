@@ -1,0 +1,15 @@
+# MarginLab — first-paint theme (dark workspace) so there's no white flash
+[theme]
+base = "dark"
+primaryColor = "#C9A063"
+backgroundColor = "#0E0F13"
+secondaryBackgroundColor = "#16181F"
+textColor = "#F5F2EB"
+font = "sans serif"
+
+[server]
+headless = true
+enableCORS = false
+
+[browser]
+gatherUsageStats = false
